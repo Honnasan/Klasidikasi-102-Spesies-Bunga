@@ -314,7 +314,7 @@ st.markdown("""
 # ======= Header Section =======
 st.markdown("""
 <div class="main-header">
-    <h1><span class="logo">🌸</span> Flower Classifier AI 🌸</h1>
+    <h1><span class="logo">🌸</span> Flower Classifier 102 🌸</h1>
     <p>Upload a flower image and discover its species with our advanced MobileNetV2 model</p>
 </div>
 """, unsafe_allow_html=True)
@@ -417,7 +417,7 @@ else:
 # ======= Footer =======
 st.markdown("""
 <div class="footer">
-    <p style="margin: 0;">© 2025 Flower Classifier AI | Built with ❤️ using Streamlit & PyTorch</p>
+    <p style="margin: 0;">© 2025 Flower Classifier 102 | Built with ❤️ using Streamlit & PyTorch</p>
     <p style="margin: 0.5rem 0 0 0; font-size: 0.9rem; opacity: 0.8;">
         Powered by MobileNetV2 | 102 Flower Classes Supported
     </p>
